@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jan 26 13:13:43 2022
-@author: Jason Harris CS379 Machine Learning Due 01/20/2022
+@author: Jason Harris
 This is the Supervised evaluation of survivor possibility based on the
 provided tutorials and CS379T-Week-1-IP.xls file.I used 
 https://betterprogramming.pub/df-survival-prediction-using-machine-learning-4c5ff1e3fa16
