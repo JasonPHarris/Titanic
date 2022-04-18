@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jan 26 13:13:43 2022
-@author: Jason Harris CS379 Machine Learning Due 01/20/2022
+@author: Jason Harris
 This is the Unsupervised evaluation of survivor possiblity based on the 
-provided tutorials and CS379T-Week-1-IP.xls file.I used 
+provided tutorials and Titanic.xls file. I used 
 https://www.youtube.com/watch?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&v=8p6XaQSIFpY 
 videos 35 and 36 to help with the code.
 """
