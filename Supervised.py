@@ -3,7 +3,7 @@
 Created on Wed Jan 26 13:13:43 2022
 @author: Jason Harris
 This is the Supervised evaluation of survivor possibility based on the
-provided tutorials and CS379T-Week-1-IP.xls file.I used 
+provided tutorials and Titanic.xls file. I used 
 https://betterprogramming.pub/df-survival-prediction-using-machine-learning-4c5ff1e3fa16
 and https://www.youtube.com/watch?v=rODWw2_1mCI&ab_channel=ComputerScience to help with the code.
 """
